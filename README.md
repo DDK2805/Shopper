@@ -1,3 +1,3 @@
 
-MERN Ecommer Website
+MERN Ecommerce Website
 
