@@ -5,7 +5,6 @@ Shopper is a full-stack e-commerce application built using the MERN stack (Mongo
 
 ## Features
 
-
 - **Full-Stack Implementation**: Utilizes MongoDB, Express.js, React, and Node.js for a complete, scalable solution.
 - **Real-Time Features**: Real-time notifications and updates enhance user experience.
 - **Secure Authentication and Authorization**: Protects user data and ensures secure access.
