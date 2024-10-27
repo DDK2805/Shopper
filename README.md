@@ -15,8 +15,7 @@ Shopper is a full-stack e-commerce application built using the MERN stack (Mongo
 - **User Reviews and Ratings**: Allows users to leave reviews and ratings for products.
 
 
-Contributing:- 
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
+
 
 
 Acknowledgements:- 
